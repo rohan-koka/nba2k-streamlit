@@ -13,7 +13,7 @@ A web app where you guess the NBA 2K overall ratings of current NBA players and 
 - 10 rounds per game, max score is 100
 
 ## Live Demo
-[Play the game here](https://nba2k-app-j83uzadxe7fme3nybz4aar.streamlit.app)
+[Play the game here][(https://nba2k-app-j83uzadxe7fme3nybz4aar.streamlit.app)]
 
 ## Built With
 - Python
